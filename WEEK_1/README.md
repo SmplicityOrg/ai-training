@@ -1,7 +1,3 @@
-Here is a comprehensive `README.md` crafted to match the exact tone, progressive narrative, and practical code walkthrough from your workshop session.
-
----
-
 # 🤖 Salesforce Tech Exchange: Understanding Agentic AI from First Principles
 
 > **Workshop Session Notes & Implementation Lab**  
